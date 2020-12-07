@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Database Name="Выбор стиралки">
+  <Attributes Caption="Характеристики">
+    <Attribute ID="0" Caption="Система управления (умный дом)" />
+    <Attribute ID="2" Caption="Блокировка от случайного нажатия" />
+    <Attribute ID="9" Caption="Контроль уровня пены" />
+    <Attribute ID="10" Caption="Защита от протечек" />
+    <Attribute ID="11" Caption="Цена до 15.000 руб" />
+    <Attribute ID="12" Caption="Цена от 15.000 руб. до 25.000 руб." />
+    <Attribute ID="13" Caption="Цена от 25.000 руб. до 35.000 руб." />
+    <Attribute ID="14" Caption="Цена выше 35.000 руб." />
+    <Attribute ID="15" Caption="Класс А+++" />
+    <Attribute ID="16" Caption="Класс А++" />
+    <Attribute ID="17" Caption="Класс А+" />
+    <Attribute ID="1" Caption="Класс А" />
+    <Attribute ID="18" Caption="Класс B" />
+    <Attribute ID="19" Caption="Класс C" />
+    <Attribute ID="20" Caption="Класс D" />
+    <Attribute ID="21" Caption="Вертикальный тип загрузки" />
+    <Attribute ID="22" Caption="Фронтальный тип загрузки" />
+    <Attribute ID="23" Caption="Встраиваемая" />
+    <Attribute ID="24" Caption="Отдельностоящая" />
+    <Attribute ID="25" Caption="Отжим до 800 об/мин" />
+    <Attribute ID="26" Caption="Отжим от 800 до 1200 об/мин" />
+    <Attribute ID="27" Caption="Отжим от 1200 об/мин" />
+    <Attribute ID="28" Caption="Белый цвет" />
+    <Attribute ID="29" Caption="Черный цвет" />
+    <Attribute ID="30" Caption="Серый цвет" />
+    <Attribute ID="31" Caption="Глубина до 40 см" />
+    <Attribute ID="32" Caption="Глубина от 40  до 50 см" />
+    <Attribute ID="33" Caption="Глубина от 50 см" />
+    <Attribute ID="34" Caption="Глубина до 40 см" />
+    <Attribute ID="35" Caption="Глубина от 40  до 50 см" />
+    <Attribute ID="36" Caption="Глубина от 50 см" />
+    <Attribute ID="37" Caption="Ширина до 40 см" />
+    <Attribute ID="38" Caption="Ширина от 40  до 50 см" />
+    <Attribute ID="39" Caption="Ширина от 50 см" />
+    <Attribute ID="40" Caption="Высота до 40 см" />
+    <Attribute ID="41" Caption="Высота от 40  до 50 см" />
+    <Attribute ID="42" Caption="Высота от 50 см" />
+    <Attribute ID="43" Caption="Загрузка белья до 5 кг" />
+    <Attribute ID="44" Caption="Загрузка белья от 5  до 8 кг" />
+    <Attribute ID="45" Caption="Загрузка белья от 8 кг" />
+  </Attributes>
+  <Objects Caption="Рекомендуемые классы">
+    <Object Name="AEG L 6FBI48 S" Attributes="9, 10, 14, 15, 22, 24, 27, 28, 33, 39, 42, 44" />
+    <Object Name="Weissgauff WMD 6160 D" Attributes="15, 16, 17, 2,10, 13, 39, 36, 42, 9, 28, 27, 22" />
+    <Object Name="LG F-2J5NN4W" Attributes="9, 10, 13, 17, 22, 24, 26, 28, 35, 39, 42, 44" />
+    <Object Name="Samsung WW60J3097JWDLP" Attributes="15, 16, 17, 2, 10, 12, 39, 32, 42, 26, 28, 22, 44" />
+    <Object Name="Bosch WLG 20162" Attributes="2, 9, 10, 12, 15, 22, 24, 26, 28, 35, 39, 40, 43" />
+    <Object Name="Siemens WS 12T440" Attributes="2, 9, 10, 15, 22, 24, 26, 35, 39, 44" />
+    <Object Name="Indesit IWUC 4105" Attributes="15, 10, 9, 43, 39, 34, 42, 22, 24, 26, 11  " />
+    <Object Name="Candy CS4 1051D1/2-07" Attributes="17,10, 22, 24, 43, 39, 42, 34, 26, 28, 11" />
+    <Object Name="Candy CST G283DM/1" Attributes="1, 37, 36, 42, 45, 28, 27, 9, 10, 13, 21, 24" />
+    <Object Name="Hotpoint-Ariston RST 702 ST S" Attributes="2, 9, 10, 22, 24, 44, 39, 42, 32, 16, 28, 26, 12" />
+  </Objects>
+</Database>
+
